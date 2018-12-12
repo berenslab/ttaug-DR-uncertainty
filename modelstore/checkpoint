@@ -1,0 +1,2 @@
+model_checkpoint_path: "MyResNet4DR_15_1111_regConst_0.1_lr_0.005_m_23_dataAug_0.9"
+all_model_checkpoint_paths: "MyResNet4DR_15_1111_regConst_0.1_lr_0.005_m_23_dataAug_0.9"
