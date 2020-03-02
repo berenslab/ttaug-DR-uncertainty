@@ -1,2 +1,2 @@
-# ttaug-DR-uncertainty
-Test-time Data Augmentation for Estimation of Heteroscedastic Aleatoric Uncertainty in Diabetic Retinopathy (DR) Detection via Deep Neural Networks
+# Expert-validated estimation of diagnostic uncertainty for deep neural networks in diabetic retinopathy detection
+https://doi.org/10.1101/19002154 
